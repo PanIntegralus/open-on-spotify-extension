@@ -1,6 +1,6 @@
 # Open on Spotify
 
-Allows you to open URLs inside Spotify Client to save the hassle of logging in normal browser.
+Browser extension to open URLs inside Spotify Client with a click.
 
 ## Attributing
 
