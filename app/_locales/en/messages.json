@@ -1,0 +1,14 @@
+{
+    "appName": {
+      "message": "Open on Spotify button",
+      "description": "The name of the application"
+    },
+    "appShortName": {
+      "message": "spotify-url-opener",
+      "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+    },
+    "appDescription": {
+      "message": "Allows you to open URLs in Spotify desktop client with a click.",
+      "description": "The description of the application"
+    }
+  }
