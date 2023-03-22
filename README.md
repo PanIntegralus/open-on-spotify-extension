@@ -8,7 +8,7 @@ Icons made by https://iconmonstr.com/
 
 ## Install
 
-	$ npm install
+    npm install
 
 ## Development
 
