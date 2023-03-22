@@ -1,6 +1,6 @@
 # Open on Spotify
 
-Browser extension to open URLs inside Spotify Client with a click.
+Browser extension that allows you to open URLs in Spotify desktop client with a click.
 
 ## Attributing
 
